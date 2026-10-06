@@ -1,0 +1,16 @@
+# Locally stored datasets and model objects
+data/raw/
+data/processed/
+
+# Reproduction copies and execution logs
+repro_checks/
+logs/
+
+# Local environments and Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# Editor temporary files
+*~
+*.swp

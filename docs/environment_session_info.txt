@@ -1,0 +1,59 @@
+R version 4.5.3 (2026-03-11)
+Platform: x86_64-redhat-linux-gnu
+Running under: Fedora Linux 43 (Workstation Edition)
+
+Matrix products: default
+BLAS/LAPACK: FlexiBLAS OPENBLAS-OPENMP;  LAPACK version 3.12.1
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] KEGGREST_1.50.0             SummarizedExperiment_1.40.0
+ [3] gtable_0.3.6                ggplot2_4.0.3              
+ [5] httr2_1.3.0                 Biobase_2.70.0             
+ [7] lattice_0.22-9              vctrs_0.7.3                
+ [9] tools_4.5.3                 generics_0.1.4             
+[11] stats4_4.5.3                curl_8.0.0                 
+[13] parallel_4.5.3              tibble_3.3.1               
+[15] AnnotationDbi_1.72.0        RSQLite_3.53.3             
+[17] blob_1.3.0                  pkgconfig_2.0.3            
+[19] Matrix_1.7-4                RColorBrewer_1.1-3         
+[21] dbplyr_2.6.0                S7_0.2.2                   
+[23] S4Vectors_0.48.1            lifecycle_1.0.5            
+[25] muscData_1.24.0             farver_2.1.2               
+[27] compiler_4.5.3              Biostrings_2.78.0          
+[29] DESeq2_1.50.2               Seqinfo_1.0.0              
+[31] codetools_0.2-20            yaml_2.3.12                
+[33] pillar_1.11.1               crayon_1.5.3               
+[35] BiocParallel_1.44.0         SingleCellExperiment_1.32.0
+[37] cachem_1.1.0                DelayedArray_0.36.1        
+[39] abind_1.4-8                 ExperimentHub_3.0.0        
+[41] AnnotationHub_4.0.0         locfit_1.5-9.12            
+[43] tidyselect_1.2.1            dplyr_1.2.1                
+[45] BiocVersion_3.22.0          fastmap_1.2.0              
+[47] grid_4.5.3                  cli_3.6.6                  
+[49] SparseArray_1.10.10         magrittr_2.0.5             
+[51] S4Arrays_1.10.1             scales_1.4.0               
+[53] filelock_1.0.3              rappdirs_0.3.4             
+[55] bit64_4.8.6                 XVector_0.50.0             
+[57] httr_1.4.9                  matrixStats_1.5.0          
+[59] bit_4.6.0                   otel_0.2.0                 
+[61] png_0.1-9                   memoise_2.0.1              
+[63] GenomicRanges_1.62.1        IRanges_2.44.0             
+[65] BiocFileCache_3.0.0         rlang_1.3.0                
+[67] Rcpp_1.1.2                  glue_1.8.1                 
+[69] DBI_1.3.0                   BiocManager_1.30.27        
+[71] BiocGenerics_0.56.0         R6_2.6.1                   
+[73] MatrixGenerics_1.22.0      

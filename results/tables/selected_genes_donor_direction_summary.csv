@@ -1,0 +1,5 @@
+"gene_id","gene_name","donor_pairs","stim_higher_pairs","ctrl_higher_pairs","equal_pairs"
+"ENSG00000089009","RPL6",8,0,8,0
+"ENSG00000108700","CCL8",8,8,0,0
+"ENSG00000172183","ISG20",8,8,0,0
+"ENSG00000185507","IRF7",8,8,0,0

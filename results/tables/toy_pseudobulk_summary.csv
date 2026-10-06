@@ -1,0 +1,9 @@
+donor_id,sample_id,condition,cell_type,GENE_A,GENE_B,n_cells
+D1,D1_control,control,B cell,1,8,1
+D1,D1_control,control,Monocyte,2,7,2
+D1,D1_treated,treated,B cell,2,7,1
+D1,D1_treated,treated,Monocyte,10,6,2
+D2,D2_control,control,B cell,0,9,1
+D2,D2_control,control,Monocyte,3,5,1
+D2,D2_treated,treated,B cell,1,8,1
+D2,D2_treated,treated,Monocyte,8,3,1

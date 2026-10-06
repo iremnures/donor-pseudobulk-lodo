@@ -1,0 +1,129 @@
+"donor_id","sample_id","condition","cell_type","n_cells"
+"101","101_ctrl","ctrl","B cells",107
+"1015","1015_ctrl","ctrl","B cells",453
+"1016","1016_ctrl","ctrl","B cells",126
+"1039","1039_ctrl","ctrl","B cells",27
+"107","107_ctrl","ctrl","B cells",44
+"1244","1244_ctrl","ctrl","B cells",116
+"1256","1256_ctrl","ctrl","B cells",216
+"1488","1488_ctrl","ctrl","B cells",218
+"101","101_stim","stim","B cells",135
+"1015","1015_stim","stim","B cells",341
+"1016","1016_stim","stim","B cells",116
+"1039","1039_stim","stim","B cells",40
+"107","107_stim","stim","B cells",54
+"1244","1244_stim","stim","B cells",93
+"1256","1256_stim","stim","B cells",208
+"1488","1488_stim","stim","B cells",279
+"101","101_ctrl","ctrl","CD14+ Monocytes",202
+"1015","1015_ctrl","ctrl","CD14+ Monocytes",779
+"1016","1016_ctrl","ctrl","CD14+ Monocytes",369
+"1039","1039_ctrl","ctrl","CD14+ Monocytes",126
+"107","107_ctrl","ctrl","CD14+ Monocytes",209
+"1244","1244_ctrl","ctrl","CD14+ Monocytes",415
+"1256","1256_ctrl","ctrl","CD14+ Monocytes",390
+"1488","1488_ctrl","ctrl","CD14+ Monocytes",295
+"101","101_stim","stim","CD14+ Monocytes",253
+"1015","1015_stim","stim","CD14+ Monocytes",671
+"1016","1016_stim","stim","CD14+ Monocytes",329
+"1039","1039_stim","stim","CD14+ Monocytes",165
+"107","107_stim","stim","CD14+ Monocytes",169
+"1244","1244_stim","stim","CD14+ Monocytes",290
+"1256","1256_stim","stim","CD14+ Monocytes",375
+"1488","1488_stim","stim","CD14+ Monocytes",348
+"101","101_ctrl","ctrl","CD4 T cells",293
+"1015","1015_ctrl","ctrl","CD4 T cells",848
+"1016","1016_ctrl","ctrl","CD4 T cells",422
+"1039","1039_ctrl","ctrl","CD4 T cells",189
+"107","107_ctrl","ctrl","CD4 T cells",158
+"1244","1244_ctrl","ctrl","CD4 T cells",1068
+"1256","1256_ctrl","ctrl","CD4 T cells",1001
+"1488","1488_ctrl","ctrl","CD4 T cells",1182
+"101","101_stim","stim","CD4 T cells",382
+"1015","1015_stim","stim","CD4 T cells",734
+"1016","1016_stim","stim","CD4 T cells",353
+"1039","1039_stim","stim","CD4 T cells",281
+"107","107_stim","stim","CD4 T cells",186
+"1244","1244_stim","stim","CD4 T cells",854
+"1256","1256_stim","stim","CD4 T cells",954
+"1488","1488_stim","stim","CD4 T cells",1484
+"101","101_ctrl","ctrl","CD8 T cells",74
+"1015","1015_ctrl","ctrl","CD8 T cells",179
+"1016","1016_ctrl","ctrl","CD8 T cells",536
+"1039","1039_ctrl","ctrl","CD8 T cells",26
+"107","107_ctrl","ctrl","CD8 T cells",20
+"1244","1244_ctrl","ctrl","CD8 T cells",58
+"1256","1256_ctrl","ctrl","CD8 T cells",131
+"1488","1488_ctrl","ctrl","CD8 T cells",58
+"101","101_stim","stim","CD8 T cells",105
+"1015","1015_stim","stim","CD8 T cells",133
+"1016","1016_stim","stim","CD8 T cells",489
+"1039","1039_stim","stim","CD8 T cells",31
+"107","107_stim","stim","CD8 T cells",15
+"1244","1244_stim","stim","CD8 T cells",32
+"1256","1256_stim","stim","CD8 T cells",112
+"1488","1488_stim","stim","CD8 T cells",43
+"101","101_ctrl","ctrl","Dendritic cells",21
+"1015","1015_ctrl","ctrl","Dendritic cells",30
+"1016","1016_ctrl","ctrl","Dendritic cells",19
+"1039","1039_ctrl","ctrl","Dendritic cells",9
+"107","107_ctrl","ctrl","Dendritic cells",8
+"1244","1244_ctrl","ctrl","Dendritic cells",47
+"1256","1256_ctrl","ctrl","Dendritic cells",26
+"1488","1488_ctrl","ctrl","Dendritic cells",43
+"101","101_stim","stim","Dendritic cells",34
+"1015","1015_stim","stim","Dendritic cells",30
+"1016","1016_stim","stim","Dendritic cells",15
+"1039","1039_stim","stim","Dendritic cells",17
+"107","107_stim","stim","Dendritic cells",14
+"1244","1244_stim","stim","Dendritic cells",33
+"1256","1256_stim","stim","Dendritic cells",32
+"1488","1488_stim","stim","Dendritic cells",54
+"101","101_ctrl","ctrl","FCGR3A+ Monocytes",80
+"1015","1015_ctrl","ctrl","FCGR3A+ Monocytes",252
+"1016","1016_ctrl","ctrl","FCGR3A+ Monocytes",115
+"1039","1039_ctrl","ctrl","FCGR3A+ Monocytes",34
+"107","107_ctrl","ctrl","FCGR3A+ Monocytes",32
+"1244","1244_ctrl","ctrl","FCGR3A+ Monocytes",56
+"1256","1256_ctrl","ctrl","FCGR3A+ Monocytes",69
+"1488","1488_ctrl","ctrl","FCGR3A+ Monocytes",101
+"101","101_stim","stim","FCGR3A+ Monocytes",144
+"1015","1015_stim","stim","FCGR3A+ Monocytes",228
+"1016","1016_stim","stim","FCGR3A+ Monocytes",128
+"1039","1039_stim","stim","FCGR3A+ Monocytes",47
+"107","107_stim","stim","FCGR3A+ Monocytes",37
+"1244","1244_stim","stim","FCGR3A+ Monocytes",35
+"1256","1256_stim","stim","FCGR3A+ Monocytes",97
+"1488","1488_stim","stim","FCGR3A+ Monocytes",144
+"101","101_ctrl","ctrl","Megakaryocytes",11
+"1015","1015_ctrl","ctrl","Megakaryocytes",20
+"1016","1016_ctrl","ctrl","Megakaryocytes",8
+"1039","1039_ctrl","ctrl","Megakaryocytes",31
+"107","107_ctrl","ctrl","Megakaryocytes",6
+"1244","1244_ctrl","ctrl","Megakaryocytes",14
+"1256","1256_ctrl","ctrl","Megakaryocytes",14
+"1488","1488_ctrl","ctrl","Megakaryocytes",18
+"101","101_stim","stim","Megakaryocytes",9
+"1015","1015_stim","stim","Megakaryocytes",20
+"1016","1016_stim","stim","Megakaryocytes",10
+"1039","1039_stim","stim","Megakaryocytes",36
+"107","107_stim","stim","Megakaryocytes",4
+"1244","1244_stim","stim","Megakaryocytes",13
+"1256","1256_stim","stim","Megakaryocytes",17
+"1488","1488_stim","stim","Megakaryocytes",29
+"101","101_ctrl","ctrl","NK cells",70
+"1015","1015_ctrl","ctrl","NK cells",177
+"1016","1016_ctrl","ctrl","NK cells",128
+"1039","1039_ctrl","ctrl","NK cells",19
+"107","107_ctrl","ctrl","NK cells",40
+"1244","1244_ctrl","ctrl","NK cells",105
+"1256","1256_ctrl","ctrl","NK cells",261
+"1488","1488_ctrl","ctrl","NK cells",116
+"101","101_stim","stim","NK cells",104
+"1015","1015_stim","stim","NK cells",195
+"1016","1016_stim","stim","NK cells",195
+"1039","1039_stim","stim","NK cells",24
+"107","107_stim","stim","NK cells",46
+"1244","1244_stim","stim","NK cells",114
+"1256","1256_stim","stim","NK cells",231
+"1488","1488_stim","stim","NK cells",168
